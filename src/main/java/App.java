@@ -7,7 +7,7 @@ public class App {
         Scanner sc = new Scanner(System.in);
         String username = sc.nextLine();
     System.out.println("Hi, "+ username+ "!");
-   // Float.parseFloat(username); 
+   
 sc.close();
     }
 
